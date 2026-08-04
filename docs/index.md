@@ -73,7 +73,7 @@ on Hugging Face at `FlyRank/internship-warehouse`. Star schema, salted/namespace
 grain is sufficient for a ranking task; query-level detail is reserved as future work, see
 Section 5).
 
-**Tables used.**
+**Tables used**:
 
 | Table | Grain | Used for |
 |---|---|---|
