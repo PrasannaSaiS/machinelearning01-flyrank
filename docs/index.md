@@ -74,6 +74,7 @@ grain is sufficient for a ranking task; query-level detail is reserved as future
 Section 5).
 
 **Tables used.**
+
 | Table | Grain | Used for |
 |---|---|---|
 | `fact_content_daily_performance` | one row per (report_date, client, content) | aggregating features and the forward-looking label over fixed calendar windows |
