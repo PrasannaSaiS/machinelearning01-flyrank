@@ -288,10 +288,3 @@ blind" is checkable directly from the committed notebook, not taken on faith.
 Built on the FlyRank ML Internship dataset — [flyrank.ai](https://flyrank.ai).
 
 ---
-
-> **Claims checklist before submitting:** observed / measured / directional / decision-support
-> language everywhere · report the base rate (6.43% on the starter slice; re-confirm on the dev
-> and sealed splits in Section 3) next to every precision@K · no causal claims without an
-> experiment or causal design · no "predicted [platform]'s algorithm" · no client-identifying
-> details anywhere in `work/` · numbers in this report match a fresh re-run of
-> `capstone.ipynb`.
